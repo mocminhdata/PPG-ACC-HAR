@@ -26,6 +26,3 @@ This study uses the **PPG-DaLiA** dataset, which includes synchronized wrist-wor
 
 > Reiss A, Indlekofer I, Schmidt P, Van Laerhoven K. Deep PPG: Large-scale heart rate estimation with convolutional neural networks. Sensors. 2019;19(14): 3079.
 
-## License
-
-This project is released under the MIT License.
