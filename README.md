@@ -1,6 +1,6 @@
 # Human Activity Recognition based on Wrist PPG and Accelerometer Spectrograms with a Lightweight 2D CNN
 
-Minh Nhut Ho¹, Lua Thi Ngo²ˌ³ and Kien Trong Nguyen¹*
+Minh Nhut Ho¹, Hieu Trung Nguyen¹, Lua Thi Ngo²ˌ³ and Kien Trong Nguyen¹*
 
 ¹ Posts and Telecommunications Institute of Technology, VietNam  
 ² International University, Vietnam National University Ho Chi Minh City, VietNam  
